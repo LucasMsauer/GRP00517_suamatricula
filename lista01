@@ -1,1 +1,6 @@
-
+git clone https://github.com/usuario/repositorio
+git add HelloWorld.txt
+git commit -m ”mensagem do commit”
+git push origin master (origem destino)
+git pull
+git status
